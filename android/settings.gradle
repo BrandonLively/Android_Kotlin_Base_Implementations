@@ -1,0 +1,2 @@
+rootProject.name='BaseImplementations'
+include ':app'
